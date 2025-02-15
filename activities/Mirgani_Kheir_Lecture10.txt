@@ -1,0 +1,50 @@
+# Regex Activity 
+
+**[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
+
+* *Date Created*: 2025 02 15
+* *Last Modification Date*: 2025 02 15
+* *Lab URL*: <http://example.com/>
+
+## First Name
+
+* /[A-Za-z]+(?: [A-Za-z]+)?$/
+- Passed all of them
+
+## Last Name
+* /[A-Za-z]+(?:['-][A-Za-z]+)*$/
+- Passed all of them
+
+## Email
+* /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}$/
+- All passed
+
+## Password
+* /^(?=.*\d)(?=.*[A-Z])(?=.[^A-Za-z0-9]).{12,}$/
+- All passed
+
+## Authors
+
+If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
+
+* [Mirgani Kheir](mr859867@dal.ca) - (Captain)
+
+## Built With
+
+https://regex101.com/
+
+I used regex101 instead of the provided link because this one has a better UI
+
+## Sources Used
+
+If in completing your lab / assignment / project you used any interpretation of someone else's code, then provide a list of where the code was implemented, how it was implemented, why it was implemented, and how it was modified. See the sections below for more details.
+
+
+I did not use anyones code but I did use this regex learning website to study up: https://regexone.com/
+
+
+## Acknowledgments
+
+* Hat tip to Raghav Sampagni for introducing me to the regex tutorial website
+* Inspiration
+* etc
