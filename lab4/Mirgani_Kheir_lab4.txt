@@ -1,10 +1,12 @@
-# Activity / Lab / Assignment / Project Title
+# Lab 4
 
 **[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
 
-* *Date Created*: 13 02 2025
-* *Last Modification Date*: 13 02 2025
-* *Lab URL*: <https://web.cs.dal.ca/~kheir/csci3172/lab4/> https://git.cs.dal.ca/kheir/csci3172/-/tree/main/lab3?ref_type=heads
+    It is a quick login and registration form, there are links to go either page from the other. validation handled using regex.
+
+* *Date Created*: 27 02 2025
+* *Last Modification Date*: 27 02 2025
+* *Lab URL*: <https://web.cs.dal.ca/~kheir/csci3172/lab4/> https://git.cs.dal.ca/kheir/csci3172/-/tree/main/lab4?ref_type=heads
 
 
 ## Authors
