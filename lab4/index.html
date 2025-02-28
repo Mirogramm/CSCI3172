@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Page</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h2 >Registration Form</h2>
+    <form id="registerForm">
+        <label for="email">Email: </label>
+        <input type="email" id="email" required>
+        <span class="error" id="emailError"></span> <!-- Will use this format for error showing -->
+
+        <label for="username">Username: </label>
+        <input type="text" id="username" required>
+        <span class="error" id="usernameError"></span>
+
+        <label for="password">Password: </label>
+        <input type="password" id="password" required>
+        <span class="error" id="passwordError"></span>
+
+        <label for="confirmPassword">Confirm Password: </label>
+        <input type="password" id="confirmPassword" required>
+        <span class="error" id="confirmPasswordError"></span>
+
+        <button id="registerButton" type="submit">Register</button>
+    </form>
+
+    <p>click <a href="login.html">here</a> to go to login page </p>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
