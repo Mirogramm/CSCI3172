@@ -1,0 +1,35 @@
+# Activity / Lab / Assignment / Project Title
+
+**[Optional]** If what is being submitted is an individual Lab or Assignment. Otherwise, include a brief one paragraph description about the project.
+
+* *Date Created*: 16 03 2025
+* *Last Modification Date*: 16 03 2025
+* *Lab URL*: <http://example.com/>
+
+
+## Authors
+
+If what is being submitted is an individual Lab or Assignment, you may simply include your name and email address. Otherwise list the members of your group.
+
+* [Mirgani Kheir](mr859867@dal.ca) - (Senior Programmer)
+* [Name](email@dal.ca) - (Role)
+* [Name](email@dal.ca) - (Role)
+* [Name](email@dal.ca) - (Role)
+* [Name](email@dal.ca) - (Role)
+
+
+## Built With
+
+<!--- Provide a list of the frameworks used to build this application, your list should include the name of the framework used, the url where the framework is available for download and what the framework was used for, see the example below --->
+
+* [Bootstrap](https://getbootstrap.com/) - The css framework used
+
+## Sources Used
+
+
+## Artificial Intelligence Tools Used
+
+
+## Acknowledgments
+
+* Hat tip to Raghav Sampagni for forcing us to use bootstrap for the entirety of 2170
