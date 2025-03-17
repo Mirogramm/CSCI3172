@@ -4,7 +4,8 @@
 
 * *Date Created*: 16 03 2025
 * *Last Modification Date*: 16 03 2025
-* *Lab URL*: <http://example.com/>
+* *Lab URL*: https://git.cs.dal.ca/kheir/csci3172/-/tree/main/lab6?ref_type=heads
+https://github.com/Mirogramm/CSCI3172
 
 
 ## Authors
